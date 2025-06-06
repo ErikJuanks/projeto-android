@@ -13,7 +13,7 @@ body{
 * {
     padding: 0;
     margin: 0;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 #titulo1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -52,7 +52,7 @@ main{
     font-family: principal, arial, sans-serif;
     color: rgb(0, 110, 0);
     display: flex;
-    text-align: justify;
+    
 }
 p{
     text-indent: 20px;
