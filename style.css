@@ -52,7 +52,7 @@ main{
     font-family: principal, arial, sans-serif;
     color: rgb(0, 110, 0);
     display: flex;
-    
+    letter-spacing: 1px;
 }
 p{
     text-indent: 20px;
